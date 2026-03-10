@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Subhodeep+Mitra;Full+Stack+|+AI/ML+|+Cloud+Dev;Regional+Silver+Medalist+🥈" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subhodeep+Mitra;Full+Stack+%7C+AI%2FML+%7C+Cloud+Dev;Regional+Silver+Medalist" alt="Typing SVG" />
 
 <br/>
 
@@ -15,10 +15,10 @@
 ## 🧠 About Me
 
 - 🎓 BTech CSE (AI & ML) @ **SRMIST**
-- ☁️ Exploring **Cloud Computing**, **DevOps**, and **Full-Stack-Development**
+- ☁️ Exploring **Cloud Computing**, **DevOps**, and **Full-Stack Development**
 - 💻 Strong foundation in **Java**, **SQL**, **JavaScript**
 - 🤝 Open to collaborating on **open-source** & **full-stack** projects
-- 🏅 Regional-level **Silver Medalist**
+- 🏅 Regional-level **Silver Medalist** in coding competition
 - 📍 Based in **Jamshedpur, India**
 
 ---
@@ -26,6 +26,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,12 +34,19 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 **Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Cloud & Tools**
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
@@ -48,12 +56,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Subhodeep7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhodeep7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Subhodeep7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhodeep7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhodeep7&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Subhodeep7&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -72,5 +80,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Subhodeep7&color=58a6ff&style=flat-square" alt="Profile Views" />
 
-  *"Code is not just syntax — it's a craft."*
+  <i>"Code is not just syntax — it's a craft."</i>
 </div>
