@@ -15,10 +15,10 @@
 ## 🧠 About Me
 
 - 🎓 BTech CSE (AI & ML) @ **SRMIST**
-- ☁️ Exploring **Cloud Computing**, **DevOps**, and **Cybersecurity / Ethical Hacking**
-- 💻 Strong foundation in **Java**, **SQL**, **Python**, **JavaScript**
+- ☁️ Exploring **Cloud Computing**, **DevOps**, and **Full-Stack-Development**
+- 💻 Strong foundation in **Java**, **SQL**, **JavaScript**
 - 🤝 Open to collaborating on **open-source** & **full-stack** projects
-- 🏅 Regional-level **Silver Medalist** in coding competition
+- 🏅 Regional-level **Silver Medalist**
 - 📍 Based in **Jamshedpur, India**
 
 ---
